@@ -1,0 +1,10 @@
+C:\Users\Sabina123\Desktop\kursiis\kursiis\bin\Debug\kursiis.exe.config
+C:\Users\Sabina123\Desktop\kursiis\kursiis\bin\Debug\kursiis.exe
+C:\Users\Sabina123\Desktop\kursiis\kursiis\bin\Debug\kursiis.pdb
+C:\Users\Sabina123\Desktop\kursiis\kursiis\obj\Debug\kursiis.csprojAssemblyReference.cache
+C:\Users\Sabina123\Desktop\kursiis\kursiis\obj\Debug\kursiis.Form1.resources
+C:\Users\Sabina123\Desktop\kursiis\kursiis\obj\Debug\kursiis.Properties.Resources.resources
+C:\Users\Sabina123\Desktop\kursiis\kursiis\obj\Debug\kursiis.csproj.GenerateResource.cache
+C:\Users\Sabina123\Desktop\kursiis\kursiis\obj\Debug\kursiis.csproj.CoreCompileInputs.cache
+C:\Users\Sabina123\Desktop\kursiis\kursiis\obj\Debug\kursiis.exe
+C:\Users\Sabina123\Desktop\kursiis\kursiis\obj\Debug\kursiis.pdb
